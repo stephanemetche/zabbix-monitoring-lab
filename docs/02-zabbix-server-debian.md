@@ -8,7 +8,7 @@ Version installée : Zabbix 7.0 LTS (7.0.31). Les commandes sont lancées avec u
 ## 1. Ajouter le dépôt officiel Zabbix
 
 ```bash
-wget https://repo.zabbix.com/zabbix/7.0/release/debian/pool/main/z/zabbix-release/zabbix-release_7.0-5+debian13_all.deb
+wget https://repo.zabbix.com/zabbix/7.0/debian/pool/main/z/zabbix-release/zabbix-release_7.0-5+debian13_all.deb
 sudo dpkg -i zabbix-release_7.0-5+debian13_all.deb
 sudo apt update
 ```
